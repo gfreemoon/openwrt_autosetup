@@ -1,0 +1,88 @@
+Установленные пакеты
+
+base-files blkid blkdiscard block-mount brcmfmac-firmware-usb busybox ca-bundle ca-certificates cgi-io coreutils coreutils-base64 coreutils-sleep coreutils-sort curl dnsmasq-full dropbear e2fsprogs eip197-mini-firmware firewall4 fstools fwtool gdisk getrandom gre gzip hostapd-common https-dns-proxy ip-full iptables-mod-ipopt iw iwinfo jansson4 jq jshn jsonfilter kernel kmod-asn1-decoder kmod-asn1-encoder kmod-atm kmod-br-netfilter kmod-cdrom kmod-cfg80211 kmod-crypto-acompress kmod-crypto-aead kmod-crypto-arc4 kmod-crypto-authenc kmod-crypto-ccm kmod-crypto-cmac kmod-crypto-crc32 kmod-crypto-crc32c kmod-crypto-ctr kmod-crypto-des kmod-crypto-ecb kmod-crypto-gcm kmod-crypto-geniv kmod-crypto-gf128 kmod-crypto-ghash kmod-crypto-hash kmod-crypto-hmac kmod-crypto-kpp kmod-crypto-lib-chacha20 kmod-crypto-lib-chacha20poly1305 kmod-crypto-lib-curve25519 kmod-crypto-lib-poly1305 kmod-crypto-manager kmod-crypto-md5 kmod-crypto-null kmod-crypto-rng kmod-crypto-seqiv kmod-crypto-sha1 kmod-crypto-sha256 kmod-crypto-sha3 kmod-crypto-sha512 kmod-crypto-user kmod-dnsresolver kmod-fs-cifs kmod-fs-exfat kmod-fs-ext4 kmod-fs-f2fs kmod-fs-hfsplus kmod-fs-msdos kmod-fs-netfs kmod-fs-ntfs kmod-fs-smbfs-common kmod-fs-squashfs kmod-fs-vfat kmod-gpio-button-hotplug kmod-gre kmod-gre6 kmod-hwmon-core kmod-inet-diag kmod-ip6-tunnel kmod-ipt-core kmod-ipt-ipopt kmod-iptunnel kmod-iptunnel6 kmod-l2tp kmod-lib-crc-ccitt kmod-lib-crc16 kmod-lib-crc32c kmod-lib-textsearch kmod-libphy kmod-mdio-devres kmod-mii kmod-mppe kmod-nf-conntrack kmod-nf-conntrack-netlink kmod-nf-conntrack6 kmod-nf-flow kmod-nf-ipt kmod-nf-log kmod-nf-log6 kmod-nf-nat kmod-nf-nathelper kmod-nf-nathelper-extra kmod-nf-reject kmod-nf-reject6 kmod-nf-socket kmod-nf-tproxy kmod-nfnetlink kmod-nfnetlink-queue kmod-nft-core kmod-nft-fib kmod-nft-nat kmod-nft-offload kmod-nft-queue kmod-nft-socket kmod-nft-tproxy kmod-nls-base kmod-nls-cp1250 kmod-nls-cp437 kmod-nls-cp850 kmod-nls-iso8859-1 kmod-nls-iso8859-15 kmod-nls-ucs2-utils kmod-nls-utf8 kmod-oid-registry kmod-phy-realtek kmod-ppp kmod-pppoa kmod-pppoe kmod-pppol2tp kmod-pppox kmod-pptp kmod-r8169 kmod-scsi-core kmod-slhc kmod-thermal kmod-tls kmod-tun kmod-udptunnel4 kmod-udptunnel6 kmod-usb-core kmod-usb-ehci kmod-usb-net kmod-usb-net-cdc-eem kmod-usb-net-cdc-ether kmod-usb-net-cdc-mbim kmod-usb-net-cdc-ncm kmod-usb-net-cdc-subset kmod-usb-net-huawei-cdc-ncm kmod-usb-net-ipheth kmod-usb-net-qmi-wwan kmod-usb-net-rndis kmod-usb-net-rtl8152 kmod-usb-storage kmod-usb-wdm kmod-usb-xhci-hcd kmod-usb2 kmod-usb3 kmod-veth libatomic1 libblkid1 libblobmsg-json libbpf1 libc libcap libcares libcomerr0 libcurl4 libe2p2 libelf1 libev libevdev libext2fs2 libf2fs6 libgcc1 libgmp10 libimobiledevice libimobiledevice-glue libiwinfo-data libiwinfo libjson-c5 libjson-script liblua liblucihttp-ucode liblucihttp0 libmnl0 libmount1 libncurses6 libnetfilter-conntrack3 libnettle8 libnfnetlink0 libnftnl11 libnghttp2-14 libnl-tiny1 libopenssl-conf libopenssl-legacy libopenssl3 libparted libplist libpthread libreadline8 librt libsmartcols1 libss2 libstdcpp6 libubox libubus-lua libubus libuci-lua libuci libuclient libucode libudebug libudev-zero libusb-1.0-0 libusbmuxd libustream-openssl libuuid1 libuv1 libwebsockets-full libxml2 libxtables12 linux-atm logd lsblk luci luci-app-commands luci-app-firewall luci-app-https-dns-proxy luci-app-package-manager luci-app-ttyd luci-base luci-i18n-base-ru luci-i18n-commands-ru luci-i18n-firewall-ru luci-i18n-https-dns-proxy-ru luci-i18n-opkg-ru luci-i18n-ttyd-ru luci-lib-ip luci-lib-jsonc luci-lib-nixio luci-light luci-mod-admin-full luci-mod-network luci-mod-status luci-mod-system luci-proto-ipv6 luci-proto-ppp luci-ssl-openssl luci-theme-bootstrap mkf2fs mtd netifd nftables-json odhcp6c odhcpd-ipv6only openssh-client openssh-client-utils openssh-keygen openssh-sftp-server openssl-util openwrt-keyring opkg parted partx-utils ppp ppp-mod-pppoa ppp-mod-pppoe ppp-mod-pppol2tp ppp-mod-pptp procd procd-seccomp procd-ujail r8152-firmware r8169-firmware resolveip rpcd rpcd-mod-file rpcd-mod-iwinfo rpcd-mod-luci rpcd-mod-rrdns rpcd-mod-ucode rtl8822be-firmware rtl8822ce-firmware terminfo ttyd uboot-envtools ubox ubus ubusd uci uclient-fetch ucode ucode-mod-fs ucode-mod-html ucode-mod-math ucode-mod-nl80211 ucode-mod-rtnl ucode-mod-ubus ucode-mod-uci ucode-mod-uloop uhttpd uhttpd-mod-ubus urandom-seed urngd usb-modeswitch usbids usbmuxd usbutils usign wifi-scripts wireless-regdb wget wget-ssl wpad-openssl wwan zlib losetup resize2fs nano mc kmod-nls-cp1251 kmod-nls-koi8r kmod-nls-cp866 
+
+
+Скрипт для запуска при первой загрузке (uci-defaults)
+cat << "EOF" > /etc/uci-defaults/70-rootpt-resize
+if [ ! -e /etc/rootpt-resize ] \
+&& type parted > /dev/null \
+&& lock -n /var/lock/root-resize
+then
+ROOT_BLK="$(readlink -f /sys/dev/block/"$(awk -e \
+'$9=="/dev/root"{print $3}' /proc/self/mountinfo)")"
+ROOT_DISK="/dev/$(basename "${ROOT_BLK%/*}")"
+ROOT_PART="${ROOT_BLK##*[^0-9]}"
+parted -f -s "${ROOT_DISK}" \
+resizepart "${ROOT_PART}" 100%
+mount_root done
+touch /etc/rootpt-resize
+
+if [ -e /boot/cmdline.txt ]
+then 
+NEW_UUID=$(blkid ${ROOT_DISK}p${ROOT_PART} | sed -n 's/.*PARTUUID="\([^"]*\)".*/\1/p')
+sed -i "s/PARTUUID=[^ ]*/PARTUUID=${NEW_UUID}/" /boot/cmdline.txt
+fi
+
+reboot
+fi
+exit 1
+EOF
+
+cat << "EOF" > /etc/uci-defaults/80-rootfs-resize
+if [ ! -e /etc/rootfs-resize ] \
+&& [ -e /etc/rootpt-resize ] \
+&& type losetup > /dev/null \
+&& type resize2fs > /dev/null \
+&& lock -n /var/lock/root-resize
+then
+ROOT_BLK="$(readlink -f /sys/dev/block/"$(awk -e \
+'$9=="/dev/root"{print $3}' /proc/self/mountinfo)")"
+ROOT_DEV="/dev/${ROOT_BLK##*/}"
+LOOP_DEV="$(awk -e '$5=="/overlay"{print $9}' \
+/proc/self/mountinfo)"
+if [ -z "${LOOP_DEV}" ]
+then
+LOOP_DEV="$(losetup -f)"
+losetup "${LOOP_DEV}" "${ROOT_DEV}"
+fi
+resize2fs -f "${LOOP_DEV}"
+mount_root done
+touch /etc/rootfs-resize
+reboot
+fi
+exit 1
+EOF
+
+cat << "EOF" >> /etc/sysupgrade.conf
+/etc/uci-defaults/70-rootpt-resize
+/etc/uci-defaults/80-rootfs-resize
+EOF
+
+# Install YouTubeUnblock
+curl -fsSL https://raw.githubusercontent.com/gfreemoon/install_youtubeunblock_universal/refs/heads/main/install_youtubeUnblock.sh | sh
+
+# Install Podkop
+curl -fsSL https://raw.githubusercontent.com/itdoginfo/podkop/refs/heads/main/install.sh | sh
+
+# Disable IPv6
+curl -fsSL https://raw.githubusercontent.com/ilnur1111/routerr/refs/heads/main/disable_ipv6.sh | sh
+
+# Patch flow offload rule
+sed -i 's/meta l4proto { tcp, udp } flow offload @ft;/meta l4proto { tcp, udp } ct original packets ge 30 flow offload @ft;/g' /usr/share/firewall4/templates/ruleset.uc
+fw4 restart
+# Block QUIC
+uci add firewall rule
+uci set firewall.@rule[-1].name='Block_UDP_80'
+uci set firewall.@rule[-1].src='*'
+uci set firewall.@rule[-1].dest_port='80'
+uci set firewall.@rule[-1].proto='udp'
+uci set firewall.@rule[-1].target='REJECT'
+uci add firewall rule
+uci set firewall.@rule[-1].name='Block_UDP_443'
+uci set firewall.@rule[-1].src='*'
+uci set firewall.@rule[-1].dest_port='443'
+uci set firewall.@rule[-1].proto='udp'
+uci set firewall.@rule[-1].target='REJECT'
+uci commit firewall
+/etc/init.d/firewall restart
