@@ -13,8 +13,8 @@ sh <(wget -O - https://raw.githubusercontent.com/ilnur1111/routerr/refs/heads/ma
 ### 🚀 Установка Podkop
 sh <(wget -O - https://raw.githubusercontent.com/itdoginfo/podkop/refs/heads/main/install.sh)
 
-### 🚀 Универсальный скрипт для YouTubeUnblock + config
-sh <(wget -O - https://raw.githubusercontent.com/gfreemoon/install_youtubeunblock_universal/refs/heads/main/install%2Bconfig.sh)
-
 ### Удалённое управление роутером OpenWrt с любого устройства через Tailscale
 sh <(wget -O - https://raw.githubusercontent.com/gfreemoon/openwrt_autosetup/refs/heads/main/tailscale.sh)
+
+### 🚀 Универсальный скрипт для YouTubeUnblock + config
+sh <(wget -O - https://raw.githubusercontent.com/gfreemoon/install_youtubeunblock_universal/refs/heads/main/install%2Bconfig.sh)
